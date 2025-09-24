@@ -1,5 +1,7 @@
 # Enviador de Listas de Distribución para Ferozo Webmail
 
+![Demo de la aplicación](Demo.png)
+
 Aplicación de escritorio que permite manejar listas de distribución (grupos de contactos) y enviar un mismo correo a múltiples destinatarios de forma simple. Está pensada para complementar Ferozo Webmail, que no incluye de forma nativa una funcionalidad de “grupos” o “listas” que disparen un único envío masivo.
 
 ## 🚀 Características principales
