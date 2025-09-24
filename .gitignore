@@ -1,0 +1,36 @@
+# Archivos de configuración con datos sensibles
+config.json
+respondidos.txt
+Dani1.txt
+Dani2.txt
+
+# Archivos de build y distribución
+dist/
+build/
+*.exe
+*.spec
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp 

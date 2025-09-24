@@ -1,0 +1,6 @@
+{
+  "email": "tu-email@ejemplo.com",
+  "password": "tu-contraseña",
+  "subject": "Asunto del mensaje automático",
+  "mensaje": "Hola,\n\nEste es un mensaje de respuesta automática.\n\nSaludos,\nTu Nombre"
+} 
