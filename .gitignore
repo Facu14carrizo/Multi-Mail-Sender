@@ -34,3 +34,4 @@ venv.bak/
 # Archivos temporales
 *.tmp
 *.temp 
+.env
