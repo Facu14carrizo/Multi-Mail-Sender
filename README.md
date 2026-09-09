@@ -1,33 +1,53 @@
-# Enviador de Listas de Distribución para Ferozo Webmail
+<div align="center">
+
+# ✉️ Multi-Mail Sender
+
+**Solución integral y liviana para envíos masivos y gestión de listas de correo**
+
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![GUI](https://img.shields.io/badge/Interface-Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black)]()
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![License](https://img.shields.io/badge/License-Internal%20Use-46a2f1?style=for-the-badge)]()
+
+<br />
 
 ![Demo de la aplicación](Demo.png)
 
-Aplicación de escritorio que permite manejar listas de distribución (grupos de contactos) y enviar un mismo correo a múltiples destinatarios de forma simple. Está pensada para complementar Ferozo Webmail, que no incluye de forma nativa una funcionalidad de “grupos” o “listas” que disparen un único envío masivo.
+</div>
 
-## 🚀 Características principales
+---
 
-- **Gestión de destinatarios**: agrega email y nombre opcional, selección por casilla para incluir/excluir y botón de borrar por ítem.
-- **Lista scrolleable**: escalable a muchos contactos sin romper el layout.
-- **Editor enriquecido**: negrita, cursiva, subrayado, color y tamaño de letra sobre el cuerpo del mensaje.
-- **Firma automática**: inserta “Tu nombre – Tu Puesto” al final
-- **Envío masivo**: botón “✈ Enviar” con estado “⏳ Enviando…”, resumen de éxitos/fallos y registro
-- **Persistencia**: guarda la lista en `destinatarios.json` y la configuración en `config.json`.
-- **Ejecución portable**: Compilado en un `.exe` para distribucion.
+## 🎯 Sobre el Proyecto
 
+**Multi-Mail Sender** es una aplicación de escritorio diseñada para simplificar y optimizar la distribución masiva de correos electrónicos. Diseñada para complementar servicios como Ferozo Webmail, Gmail y Outlook, permite gestionar listas de contactos y enviar comunicados masivos con un solo clic.
 
+Con una interfaz intuitiva y elegante, podrás redactar correos con formato enriquecido, administrar tus destinatarios de manera flexible y supervisar el progreso de envío en tiempo real.
 
-## ▶️ Cómo usar (versión .exe)
+---
 
-1. Ejecutar `EnviadorMiGusto.exe` (carpeta `dist`).
-2. En “Destinatarios”, agregar emails (y nombre opcional). Tildar/desmarcar “Enviar” por contacto.
-3. Completar “Asunto”.
-4. Redactar el “Mensaje” (el editor inicia con 3 saltos de línea y luego la firma).
-5. Presionar “✈ Enviar”. Se mostrará el progreso y resumen final.
+## ✨ Funcionalidades Principales
 
-> Tip: la firma se agrega automáticamente si no está; si el contenido tiene formato, el envío se hace en HTML.
+| Funcionalidad | Descripción |
+| :--- | :--- |
+| 📇 **Gestión Dinámica de Contactos** | Agrega, edita o elimina destinatarios fácilmente. Incluye casillas de verificación individual para seleccionar los destinatarios de cada campaña. |
+| 📝 **Editor Enriquecido HTML** | Personaliza tus correos con formato de texto (negrita, cursiva, subrayado), selector de color y ajuste de tamaño de fuente. |
+| ✒️ **Firma Automática** | Inserción inteligente de firmas corporativas prefijadas al pie del mensaje en formato plano o HTML. |
+| 🌐 **Soporte Multi-Servidor** | Integración nativa con **Ferozo Webmail**, **Gmail**, **Outlook** y servidores SMTP/IMAP personalizados. |
+| 📊 **Monitoreo en Tiempo Real** | Indicadores visuales de estado (`⏳ Enviando...`), reporte de entregas exitosas/fallidas y registro automático de logs. |
+| 💾 **Persistencia Automática** | Guarda automáticamente tu lista de destinatarios, asunto y último borrador para retomar tu trabajo al instante. |
 
+---
 
+## 💡 Flujo de Trabajo
 
-## 📄 Licencia
+1. **Selecciona tus Destinatarios**: Gestiona tu lista de distribución activando únicamente las casillas de los contactos deseados.
+2. **Diseña tu Mensaje**: Redacta el asunto y cuerpo del correo aplicando estilos con el editor enriquecido.
+3. **Envía y Supervisa**: Presiona el botón de envío para procesar la lista y recibe una confirmación detallada del estado de entrega.
 
-Uso interno. Adaptar y distribuir dentro de la organización.
+---
+
+<div align="center">
+
+*Herramienta desarrollada para potenciar la comunicación masiva de forma ágil, confiable y profesional.*
+
+</div>
