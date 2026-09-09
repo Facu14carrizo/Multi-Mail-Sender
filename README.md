@@ -5,13 +5,13 @@
 **Solución integral y liviana para envíos masivos y gestión de listas de correo**
 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![GUI](https://img.shields.io/badge/Interface-Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black)]()
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![License](https://img.shields.io/badge/License-Internal%20Use-46a2f1?style=for-the-badge)]()
+![GUI](https://img.shields.io/badge/Interface-Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![License](https://img.shields.io/badge/License-Internal%20Use-46a2f1?style=for-the-badge)
 
 <br />
 
-![Demo de la aplicación](Demo.png)
+<img src="./Demo.png" alt="Demo de la aplicación" width="100%" />
 
 </div>
 
